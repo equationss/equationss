@@ -63,7 +63,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/equationss/equationss/output/snake.svg" alt="Snake animation" />
+<img src="![Snake animation](https://raw.githubusercontent.com/equationss/equationss/output/snake.svg)
+" alt="Snake animation" />
 
 ###
 
